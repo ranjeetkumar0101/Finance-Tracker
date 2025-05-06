@@ -1,4 +1,3 @@
-# Finance-Tracker
 # Python 
 # Streamlit
 # Requests
