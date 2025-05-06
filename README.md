@@ -1,4 +1,5 @@
-# Python 
-# Streamlit
-# Requests
-# OpenWeatherMAp API Key
+Python 
+Streamlit
+MySQL (with PyMySQL)
+SMTP for OTP Email
+HTML + Emoji for UI Enhancement
